@@ -477,7 +477,8 @@ footer {
     justify-content: center;
   }
 
-  .item > h6 {
+  .item > h6,
+  .price > span {
     font-size: 3vw;
   }
 
